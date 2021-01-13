@@ -1,6 +1,7 @@
 # Simple DevOps project
-
 Current techstack used: Java, Git, Jenkins(Maven), Docker
+
+Current being rendered in docker container <a href="http://18.222.226.203:8080/webapp/">here<a>
 
 ### Current infrastrucutre
 
