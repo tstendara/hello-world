@@ -1,4 +1,4 @@
-# DevOps project
+# Simple DevOps project
 
 Current techstack used: Java, Git, Jenkins(Maven), Docker
 
